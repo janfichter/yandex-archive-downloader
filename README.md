@@ -1,4 +1,4 @@
-Установите расширение Tampermonkey в ваш браузер (Chrome, Яндекс.Браузер, Edge).
+Установите расширение Tampermonkey в ваш браузер (Chrome, Яндекс.Браузер, Edge). https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru&pli=1
 Нажмите на иконку расширения → "Создать новый скрипт".
 Полностью удалите весь текст, который там есть, и вставьте код из репозитория (script.js)
 Нажмите Файл → Сохранить (или Ctrl+S).
