@@ -22,7 +22,7 @@
 * [Mozilla Firefox](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
 * [Safari (macOS)](https://apps.apple.com/app/tampermonkey/id1482490089)
 
-![Установка Tampermonkey]([https://via.placeholder.com/600x200/eeeeee/000000?text=Скриншот:+Кнопка+"Установить"+в+магазине+расширений](https://github.com/janfichter/yandex-archive-downloader/blob/77979ba34f20dffd61f843b79747babb0efcfa63/images/2026-11-02_18-37-50.png))
+https://github.com/janfichter/yandex-archive-downloader/blob/77979ba34f20dffd61f843b79747babb0efcfa63/images/2026-11-02_18-37-50.png
 *(Замените эту ссылку на реальный скриншот страницы установки расширения)*
 
 ### Шаг 2: Добавление скрипта
