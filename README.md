@@ -76,10 +76,13 @@
 <div align="center">
   <a href="https://family3.site/" target="_blank">
     <!-- Замените family3-logo.png на реальное имя файла вашего логотипа -->
-    <img src="[images/family3-logo.png"](https://family3.site/wp-content/themes/familytree/img/logo.svg) alt="Genius Family Tree" width="250">
+    <img src="[https://family3.site/wp-content/themes/familytree/img/logo.svg](https://family3.site/wp-content/uploads/2026/09/logo.png) alt="Genius Family Tree" width="250">
   </a>
   <br>
+   <br>
   <strong><a href="https://family3.site/" target="_blank">Genius Family Tree</a></strong> – Плагин семейного древа для WordPress
+   <br>
+   <br>
 </div>
 
 **Genius Family Tree** помогает исследователям и генеалогам легко создавать, структурировать и красиво отображать семейные древа, биографии и архивные данные на собственном сайте. Идеальное дополнение для тех, кто систематизирует результаты своих архивных поисков.
