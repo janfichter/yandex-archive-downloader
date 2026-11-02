@@ -75,8 +75,7 @@
 
 <div align="center">
   <a href="https://family3.site/" target="_blank">
-    <!-- Замените family3-logo.png на реальное имя файла вашего логотипа -->
-    <img src="https://family3.site/wp-content/uploads/2026/09/logo.png" alt="Genius Family Tree" width="250">
+    <img src="https://family3.site/wp-content/uploads/2026/09/logo.png" alt="Family3 Logo" width="250">
   </a>
   <br>
    <br>
