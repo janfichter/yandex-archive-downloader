@@ -9,8 +9,7 @@
 ## ⚡ Быстрая установка
 
 1. Установите расширение **[Tampermonkey](https://www.tampermonkey.net/)** для вашего браузера.
-2. Перейдите по [прямой ссылке на установку скрипта](https://raw.githubusercontent.com/janfichter/yandex-archive-downloader/main/yandex-archive-downloader.user.js) *(убедитесь, что имя файла в вашей репо совпадает)*.
-3. Нажмите кнопку **«Установить»** в открывшемся окне Tampermonkey.
+2. Нажмите кнопку **«Установить»** в открывшемся окне Tampermonkey.
 
 ---
 
