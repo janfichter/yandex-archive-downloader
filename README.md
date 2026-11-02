@@ -13,8 +13,6 @@
 
 ---
 
-## 📋 Пошаговая инструкция с картинками
-
 ### Шаг 1: Установка менеджера скриптов
 Если у вас еще не установлен Tampermonkey, добавьте его из официального магазина расширений:
 * [Google Chrome / Яндекс.Браузер / Edge](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -24,11 +22,11 @@
 ![Установка Tampermonkey](https://github.com/janfichter/yandex-archive-downloader/blob/77979ba34f20dffd61f843b79747babb0efcfa63/images/2026-11-02_18-37-50.png?raw=true)
 
 ### Шаг 2: Добавление скрипта
-1. Откройте [этот файл скрипта](https://raw.githubusercontent.com/janfichter/yandex-archive-downloader/main/yandex-archive-downloader.user.js) в новой вкладке.
-2. Tampermonkey автоматически перехватит ссылку и откроет окно установки.
-3. Нажмите синюю кнопку **«Установить»** (Install).
+1. Кликните на иконку Tampermonkey в списке расширений и выберите "Создать новый скрипт".
+2. Откройте файл script.js и скопируйте все его содержимое.
+3. Добавьте скопированный код в новый скрипт и нажмите Файл — Сохранить.
 
-![Окно установки скрипта](https://via.placeholder.com/600x300/eeeeee/000000?text=Скриншот:+Окно+Tampermonkey+с+кнопкой+"Установить")
+![Окно установки скрипта](https://github.com/janfichter/yandex-archive-downloader/blob/main/images/2026-11-02_18-55-23.png?raw=true)
 
 ### Шаг 3: Как пользоваться (Самое важное!)
 1. Откройте нужную страницу с документом на [Яндекс.Архиве](https://yandex.ru/archive/).
